@@ -18,11 +18,11 @@ Save links and highlighted text with a simple right-click.
 
 ## Usage
 
-**Save a link:** Right-click any link → "Save to Note"
+**Save a link:** Right-click any link → "Save to Brainstem"
 
-**Save text:** Highlight text → Right-click → "Save to Note"
+**Save text:** Highlight text → Right-click → "Save to Brainstem"
 
-**View notes:** Click the extension icon in toolbar
+**View brainstems:** Click the extension icon in toolbar
 
 ## Tech Stack
 
